@@ -276,9 +276,9 @@ Full Stack Development🎯 My 2026 Goals
 🐙 Contribute to Open Source
 💼 Prepare for software development opportunities
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahkhanabdullahkhan28575-alt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkhanabdullahkhan28575-alt&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+
 🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=abdullahkhanabdullahkhan28575-alt&theme=tokyonight&hide_border=true"/> </p>
+
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahkhanabdullahkhan28575-alt&theme=tokyo-night&hide_border=true"/> </p>
 🌱 My Developer Journey
@@ -321,4 +321,4 @@ Some of my repositories:
 🐍 Python-Language
 💻 C-Language
 📫 Connect With Me
-<p align="left"> <a href="https://github.com/abdullahkhanabdullahkhan28575-alt"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_LINK"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
+\
