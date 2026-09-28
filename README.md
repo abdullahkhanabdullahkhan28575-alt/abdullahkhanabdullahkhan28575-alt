@@ -321,4 +321,55 @@ Some of my repositories:
 🐍 Python-Language
 💻 C-Language
 📫 Connect With Me
-\
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/abdullahkhanabdullahkhan28575-alt">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://abdullahkhanabdullahkhan28575-alt.github.io/My-Project/">
+<img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahkhanabdullahkhan28575-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdullahkhanabdullahkhan28575-alt&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 2026 Focus
+
+```text
+☕ Java
+   ↓
+🧠 DSA + NeetCode
+   ↓
+🌐 HTML + CSS + JavaScript
+   ↓
+⚛️ React
+   ↓
+🟢 Node.js + Express
+   ↓
+🗄️ MySQL + MongoDB
+   ↓
+🚀 Full Stack Development
