@@ -54,24 +54,20 @@ web applications through hands-on projects.
 
 
 
-## 🛠️ Skills
-
-- Java
-- Data Structures & Algorithms
-- HTML, CSS, JavaScript
-- React
-- Node.js & Express
-- MySQL & MongoDB
-- Git & GitHub
-
 ## 🚀 Projects
 
 - 🎵 Spotify Clone
 - 👨‍💼 Company Employee Management
-- 🧠 DSA Practice
-- 💻 NeetCode Submissions
-- 🎓 KMCLU Web Projects
-- 🌐 JavaScript Projects
+-🧮 Calculator
+- 💱 Currency Converter
+- ⏰ Digital Clock & Alarm
+- 💰 Expense Tracker
+- 🎯 Guess Number Game
+- ❓ Quiz App
+- 👨‍🎓 Student Management System
+- ❌ Tic Tac Toe
+- 🌦️ Weather App
+- 📝 To-Do App
 
 ## 📚 Currently Learning
 
@@ -84,7 +80,8 @@ To become a skilled Full Stack Developer and improve my problem-solving skills.
 ## 🔗 Links
 
 - GitHub: https://github.com/abdullahkhanabdullahkhan28575-alt
-- LinkedIn: YOUR_LINKEDIN_LINK
-- Portfolio: YOUR_PORTFOLIO_LINK
+- LinkedIn: 
+- Portfolio: https://abdullahkhanabdullahkhan28575-alt.github.io/My-Project/
+- NeetCode: https://neetcode.io/user/QuantumGenin439
 
 ⭐ Thanks for visiting my profile!
