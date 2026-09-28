@@ -47,7 +47,7 @@ web applications through hands-on projects.
 ### 🔧 Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
