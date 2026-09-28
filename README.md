@@ -82,6 +82,6 @@ To become a skilled Full Stack Developer and improve my problem-solving skills.
 - GitHub: https://github.com/abdullahkhanabdullahkhan28575-alt
 - LinkedIn: 
 - Portfolio: https://abdullahkhanabdullahkhan28575-alt.github.io/My-Project/
-- NeetCode: https://neetcode.io/user/QuantumGenin439
+
 
 ⭐ Thanks for visiting my profile!
