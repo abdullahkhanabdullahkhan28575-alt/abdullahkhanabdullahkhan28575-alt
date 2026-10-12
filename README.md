@@ -80,7 +80,9 @@ To become a skilled Full Stack Developer and improve my problem-solving skills.
 ## 🔗 Links
 
 - GitHub: https://github.com/abdullahkhanabdullahkhan28575-alt
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/abdullah-khan-64b48943b
+
+
 - Portfolio: https://abdullahkhanabdullahkhan28575-alt.github.io/My-Project/
 
 
